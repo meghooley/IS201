@@ -1,0 +1,17 @@
+/* Font color style definition */
+body {
+    color: #090101; /* Dark text color */
+}
+
+/* Font family style definition */
+h4 {
+    font-family: 'Arial', sans-serif; 
+}
+
+body {
+    background-color: #f9f3e9; /* Use the desired color code */
+}
+.style1 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: #242323; text-align: center;}
+.style2 {font-family: 'Times New Roman', Times, serif; color:#413f3f;}
+.style3 {font-family: Verdana, Geneva, Tahoma, sans-serif; color:#656262}
+.style4 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: #332d2d;}
